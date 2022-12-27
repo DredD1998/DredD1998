@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm DredD</h1>
 <h3 align="center">Silent Learner.</h3>
-
+<img align='right'alt='coding'width='400'src='![image](https://user-images.githubusercontent.com/121347443/209706617-77e90e6b-88d7-4dc9-9632-59becb2f3cde.png)
+'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dredd1998&label=Profile%20views&color=0e75b6&style=flat" alt="dredd1998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dredd1998" alt="dredd1998" /></a> </p>
